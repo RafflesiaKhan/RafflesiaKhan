@@ -49,4 +49,8 @@ I'm Rafflesia Khan. A Software Developer at IBM, Dublin. In my previous career, 
 
 [![](./images/rsff-linked-in-profile-card-comic-small.png)](https://ie.linkedin.com/in/rafflesia-khan-164b0781?trk=profile-badge)
 [![](./images/rsff-linked-in-profile-card-comic-small.png)](https://ie.linkedin.com/in/rafflesia-khan-164b0781?trk=profile-badge)
--->
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<!-- emojis from https://github.com/markdown-templates/markdown-emojis -->
