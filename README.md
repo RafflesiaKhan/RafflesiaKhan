@@ -56,6 +56,9 @@ I'm Rafflesia Khan. A Software Developer at IBM, Dublin. In my previous career, 
   <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/28ab477a-1916-4189-9a79-90a78bf94d7f/public_url"><img src="https://images.credly.com/size/220x220/images/d14e59e1-181d-4f60-a3d7-ea633e218847/First-patent.png" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;" width="100"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/bcf417a4-b9b3-4e2a-b6cb-496d93ba0386/public_url"><img src="https://images.credly.com/size/220x220/images/7c8ee9ba-02e7-49c0-80dc-f45f77783de2/image.png" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;" width="100"></a>
 </p>
+
+[See more here](https://www.credly.com/users/rafflesia-khan.2f08668d)
+
 <!--END_SECTION:badges-->
 
 <!-- emojis from https://github.com/markdown-templates/markdown-emojis -->
