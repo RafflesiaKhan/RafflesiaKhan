@@ -10,7 +10,7 @@ I'm Rafflesia Khan. A Software Developer at IBM, Dublin. In my previous career, 
 </p>
 <br>
               
-###💫 About Me:
+### 💫 About Me:
 
 - 🔭 Current Job: I’m currently working with IBM Process Mining team as a Software Developer. 
 - 📚 Current learning: Currently I'm learning AWS, IBM Cloud, Foundation models and so on...
