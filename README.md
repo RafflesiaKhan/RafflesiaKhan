@@ -47,10 +47,15 @@ I'm Rafflesia Khan. A Software Developer at IBM, Dublin. In my previous career, 
 </table>
 </div>
 
-[![](./images/rsff-linked-in-profile-card-comic-small.png)](https://ie.linkedin.com/in/rafflesia-khan-164b0781?trk=profile-badge)
-[![](./images/rsff-linked-in-profile-card-comic-small.png)](https://ie.linkedin.com/in/rafflesia-khan-164b0781?trk=profile-badge)
 
+#### 💎 My Recent Badges
 <!--START_SECTION:badges-->
+<p dir="auto" align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/a5d7f354-1aa3-4966-a6f1-c73653e2fc7f/public_url"><img src="https://images.credly.com/size/220x220/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width: 100%;" width="100"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/c1c37c06-444c-4b24-9622-be88ea75a75d/public_url"><img src="https://images.credly.com/size/220x220/images/f870e8bb-0b8b-44f5-b926-791d6081e659/Developer-Foundation1.png" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width: 100%;" width="100"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/28ab477a-1916-4189-9a79-90a78bf94d7f/public_url"><img src="https://images.credly.com/size/220x220/images/d14e59e1-181d-4f60-a3d7-ea633e218847/First-patent.png" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;" width="100"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/bcf417a4-b9b3-4e2a-b6cb-496d93ba0386/public_url"><img src="https://images.credly.com/size/220x220/images/7c8ee9ba-02e7-49c0-80dc-f45f77783de2/image.png" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;" width="100"></a>
+</p>
 <!--END_SECTION:badges-->
 
 <!-- emojis from https://github.com/markdown-templates/markdown-emojis -->
