@@ -35,7 +35,7 @@ I'm Rafflesia Khan. A Software Developer at IBM, Dublin. In my previous career, 
     <!-- Profile Research Gate -->
     <td>
       <a href="https://www.researchgate.net/profile/Rafflesia-Khan">
-        <img width="280" height="150" src="/images/raff-research-gate-profile-card-comic-small.png" alt="IBM Open Source Strategic Committer">
+        <img width="500" height="150" src="/images/raff-research-gate-profile-card-comic-small2.png" alt="IBM Open Source Strategic Committer">
       </a>
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" align="center">
     </td>
