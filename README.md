@@ -75,3 +75,4 @@ See more here
 <!--END_SECTION:badges-->
 
 <!-- emojis from https://github.com/markdown-templates/markdown-emojis -->
+<!-- markdown badges from https://github.com/Ileriayo/markdown-badges -->
