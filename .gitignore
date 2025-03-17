@@ -1,4 +1,5 @@
 # Object file
 *.DS_Store
 *script
+*node_modules
 

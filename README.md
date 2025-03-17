@@ -57,6 +57,23 @@ I'm Rafflesia Khan. A Software Developer at IBM, Dublin. In my previous career, 
 </table>
 </div>
 
+#### <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="28" height="28" alt="octocat"> Another <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="center"> profile
+
+<div>
+
+<table border="0" style="border: none;">
+  <tr>
+    <!-- Profile GitHub -->
+    <td>
+      <a href="https://github.com/Khanrafflesia">
+        <img width="140" height="140" src="images/68119110.jpeg" alt="GitHub Profile" style="border-radius: 50%;">
+      </a>
+      <h5>KhanRafflesia</h5>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 #### 💎 My Recent Badges
 <!--START_SECTION:badges-->
