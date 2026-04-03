@@ -41,7 +41,7 @@ I'm Rafflesia Khan. A Software Developer at IBM, Dublin. In my previous career, 
     </td>
     <!-- Profile Twitter -->
     <td>
-      <a href="https://twitter.com/KafiaZannat?t=xYesq9xEJBPhbivokeuEFw&s=09">
+      <a href="https://x.com/RafflesiaKhan">
         <img width="150" height="150" src="/images/raff-twitter-acc-profile-card-comic-small.png" alt="IBM Open Source Strategic Committer">
       </a>
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="center">
